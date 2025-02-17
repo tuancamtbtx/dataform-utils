@@ -1,5 +1,5 @@
 {
-  "name": "@trustingsocial/ts-dataform-utils",
+  "name": "ts-dataform-utils",
   "version": "1.0.0",
   "description": "This macro is used to deduplicate data in a relation or a CTE. It uses the row_number() window function to assign a unique row number to each row in the table, and then filters out the rows where the row number is greater than 1.",
   "license": "ISC",
